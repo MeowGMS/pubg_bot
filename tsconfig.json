@@ -1,0 +1,14 @@
+{
+   "compilerOptions": {
+      "target": "ES2018",
+      "module": "CommonJS",
+      "outDir": "dist",
+      "sourceMap": false,
+      "allowJs": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "esModuleInterop": true,
+      "moduleResolution": "node",
+      "downlevelIteration": true
+   },
+}
